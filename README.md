@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikesh-devops
+- 👋 Hi, I’m @er.nikesh29
 - 👀 I’m interested in cloud and devops tech.
 - 🌱 I’m currently learning new tools every week.
 - 💞️ I’m looking to collaborate on cloud and devops with AI.
